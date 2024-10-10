@@ -2,3 +2,14 @@ img{
     height: 500px;
     width: 600px;
 }
+div{
+    border: 2px dotted green;
+    padding: 2px;
+
+}
+.sub{
+    color: blueviolet;
+}
+.Ana{
+    height: 900px;
+}
